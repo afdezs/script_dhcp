@@ -1,3 +1,4 @@
+# Propiedad de Adrian Fdz
 contadorIP=10
 with open('IP_Fijas_19102022.txt', 'r') as f:
         for host_name in f:
